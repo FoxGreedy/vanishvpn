@@ -331,13 +331,13 @@ kbd {
 
 <body>
 
-<h3 id="toc_0">InCleaner - Privacy Policy</h3>
+<h3 id="toc_0">Vanish VPN - Privacy Policy</h3>
 
-<p><a><em>Last Update: January 19th, 2023</em></a>  </p>
+<p><a><em>Last Update: June 26th, 2023</em></a>  </p>
 
 <hr>
 
-<p>This Privacy Policy (hereinafter referred to as &quot;Policy&quot;) applies to Users (hereinafter referred to as &quot;You&quot; or &quot;Users&quot;) of InCleaner (hereinafter referred to as &quot;Application&quot;). </p>
+<p>This Privacy Policy (hereinafter referred to as &quot;Policy&quot;) applies to Users (hereinafter referred to as &quot;You&quot; or &quot;Users&quot;) of Vanish VPN (hereinafter referred to as &quot;Application&quot;). </p>
 
 <p>It is important that You read this Policy together with any other privacy policies or fair processing policies We may provide on specific occasions so that You are fully aware of when, why, and how We collect and process your personal data. If You disagree with this Policy in whole or in part, You are entitled to terminate using this Application at any time.</p>
 
@@ -517,7 +517,14 @@ Personal Data shall be processed and stored for as long as required by the purpo
 
 <p><em>PERSONAL DATA PROCESSED:</em> Usage Data.</p>
 
-<p><strong>5.5 About the porcessing mentioned above</strong><br>
+<p><strong>5.5 Server use in Vanish VPN?</strong><br>
+We use OneConnect API services for servers</p>
+
+<ul>
+<li>Privacy Policy (https://developer.oneconnect.top/privacy/)</li>
+</ul>
+
+<p><strong>5.6 About the porcessing mentioned above</strong><br>
 Place of all of this processing: United States:</p>
 
 <ul>
